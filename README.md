@@ -39,7 +39,7 @@ This project performs SVM optimization on a multi-class dataset (`Letter Recogni
 
 ## 📋 Table 1: Comparative Performance of Optimized-SVM
 
-| Sample # | Best Accuracy (%) | Best SVM Parameters (Kernel, Nu, Epsilon) |
+| Sample  | Best Accuracy (%) | Best SVM Parameters (Kernel, Nu, Epsilon) |
 |----------|-------------------|--------------------------------------------|
 | S1       | 86.32             | {'kernel': 'rbf', 'nu': 0.45, 'epsilon': 0.22} |
 | S2       | 87.94             | {'kernel': 'poly', 'nu': 0.78, 'epsilon': 0.17} |
@@ -52,7 +52,7 @@ This project performs SVM optimization on a multi-class dataset (`Letter Recogni
 | S9       | 87.32             | {'kernel': 'rbf', 'nu': 0.10, 'epsilon': 0.14} |
 | S10      | 86.91             | {'kernel': 'rbf', 'nu': 0.66, 'epsilon': 0.25} |
 
-📌 *Note: Accuracy may slightly vary depending on randomness.*
+
 
 ---
 
