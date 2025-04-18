@@ -74,11 +74,6 @@ This project performs SVM optimization on a multi-class dataset (`Letter Recogni
 
 ---
 
-## 🧠 Author
-
-**Your Name**  
-AI & ML Student | Data Science Enthusiast  
-[GitHub Profile](https://github.com/yourusername)
 
 ---
 
